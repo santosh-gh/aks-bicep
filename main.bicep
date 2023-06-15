@@ -8,7 +8,7 @@
 
 targetScope = 'subscription'
 param baseName string = 'test'
-param pubkeydata string = 'ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDNsgSFo+DDl5OvQXX1HQ/h7i9TsKId+QwanGjJFjI5+9nrQL94xsZiYfZTot3xpF9xKUjswvck/QZ0tv6hu6m58tXXlX+qm5IQTdQrI1CoKkLWjkuZoKy8Ai/P4QN7vWpzVAq+6yEfd9p9URkTPEmiThjQclsdbVgTfqxcrtQUkV6OrcVxp6DsQ7azjDZP2+wbq3fghZXkoD3z6dEdOy0FlkR/9BBed98QNv4qwigmQZNkASOqMo+4VqF0dZHSp2eMUzJSP7L8NbbuAoaE52i/1ACll7dRSXKM+47PDWNN+szlKlPV+dbrtcwEGCHXYMvspoEVUFX6GdnjZeMTvAWS4+2DFULkENNzR8Gl63oTbTNbTG29Scd4RtsBkGu/q9ye/QJ1JubbaZAArgTVZwfjy6C5VPuNY8B1jyjcaIyGFZrcSXa5WMYDvBBfVbFVHD2sUXIihrCuD0nomTXxKxXsQ1TYL8MJVkaRu6OLKTcvwIiHOBLV2hXckbHcfgSFA/aT6l99yN4H/6g3LrkQdMMzKSm3SOb+v9jtWzwUERVxqNdxy3l0MJQAFBa5/QEeh94b6rQ2DyCSVc0jfknmLhiUTkeTv8qb03n+Y1F04sqOzpQvJAKAg4tr4GDAXYtk7octoV/uuxEQFkRCxIW023mwMx+mPRPZfedOnBG7QxzZ5w=='
+param pubkeydata string = ''
 param script64 string = 'saddsadsa'
 
 param location string = 'centralindia'
